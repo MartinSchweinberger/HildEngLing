@@ -24,4 +24,4 @@ Below is the link to interactive notebook that enable anyone to reproduce the an
 
 [Interactive Statistical Analysis](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactive/main?labpath=ChnVwls_Part03_MuPDARF_interactive.ipynb)
 
- This interactive notebook is located in a separate GitHub repository (HildEngLing_interactive) which is specifically set up to launch the interactive Jupyter notebook in a virtual machine via Binder.org.
+ This interactive notebook is located in a separate GitHub repository which is specifically set up to launch the interactive Jupyter notebook in a virtual machine via Binder.org.
