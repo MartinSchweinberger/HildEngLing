@@ -1,5 +1,5 @@
 ---
-title: "Pushing the boundaries - analysing English vowel production among Chinese learners of English - Part 3: Statistical Analysis"
+title: "Using machine-learning to analyse English vowels produced by Chinese learners of English - Part 3: Statistical Analysis"
 author: "Martin Schweinberger"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output: html_document
@@ -950,7 +950,7 @@ base::saveRDS(nsdtest, file = here::here("tables", "nsdtest.rda"))
 
 # Citation & Session Info
 
-Schweinberger, Martin. 2023. Pushing the boundaries - analysing English vowel production among Chinese learners of English - Part 3: Statistical Analysis. 
+Schweinberger, Martin. 2024. Using machine-learning to analyse English vowels produced by Chinese learners of English - Part 3: Statistical Analysis. 
 
 
 ```{r}
