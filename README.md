@@ -1,4 +1,4 @@
-ng# Introduction
+# Introduction
 
 This repository contains the resources for the talk "Using machine-learning to analyse English vowels produced by Chinese learners of English" by Martin Schweinberger on April 11, 2024, at the University of Hildesheim.
 
